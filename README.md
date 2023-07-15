@@ -11,4 +11,8 @@ hackintoshmac
 声卡:  瑞昱 @ 英特尔 High Definition Audio 控制器
 ```
 
+声卡正常
+
+wifi和蓝牙不行  其他不会弄了。
+
 
